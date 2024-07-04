@@ -7,18 +7,18 @@ Create a GitHub repository containing a Todo List application backend using Node
 
 ### 1. Setup Project Structure
 - Initialize a new Node.js project.
-- Set up TypeScript for the project. (you can use only Javascript but cool to see your code with node)
+- Set up TypeScript for the project. (you can use only Javascript but cool to see your code with types)
 
 ### 2. Implement Todo List API
 - Create CRUD endpoints (`GET`, `POST`, `PUT`, `DELETE`) for managing Todo items.
 - Use Express.js for routing.
-- Use TypeScript for type safety where applicable. (if you want to use Typecript)
+- Use TypeScript for type safety where applicable. (if you want to use Typecript, this is an nice to have only)
 
 ### 3. Database Integration
 - Set up a SQL database (SQLite or any other SQL database).
 - Create a database schema for storing Todo items.
 - Implement database operations (queries) for CRUD operations.
-- or just mock the data in a .json file or some vector. The solution depends of you and your time
+- or just mock the data in a .json file or some array. The solution depends of you and your time
 
 ### 4. Apply SOLID Principles (nice to have, depends of you)
 - **Single Responsibility Principle**: Ensure each class/function has a single responsibility.
